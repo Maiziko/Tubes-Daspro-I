@@ -37,49 +37,12 @@ tictactoe : Tambahan game tictactoe sebagai pelengkap program
 # Struktur Data
 
 ```bash
-    menu
- ┣ __pycache__
- ┃ ┣ B02.cpython-38.pyc
- ┃ ┣ cipher.cpython-311.pyc
- ┃ ┣ cipher.cpython-38.pyc
- ┃ ┣ F02.cpython-311.pyc
- ┃ ┣ F02.cpython-38.pyc
- ┃ ┣ F03.cpython-311.pyc
- ┃ ┣ F03.cpython-38.pyc
- ┃ ┣ F04.cpython-311.pyc
- ┃ ┣ F04.cpython-38.pyc
- ┃ ┣ F05.cpython-311.pyc
- ┃ ┣ F05.cpython-38.pyc
- ┃ ┣ F06.cpython-311.pyc
- ┃ ┣ F06.cpython-38.pyc
- ┃ ┣ F07.cpython-311.pyc
- ┃ ┣ F07.cpython-38.pyc
- ┃ ┣ F08.cpython-311.pyc
- ┃ ┣ F08.cpython-38.pyc
- ┃ ┣ F09F10.cpython-311.pyc
- ┃ ┣ F09F10.cpython-38.pyc
- ┃ ┣ F11.cpython-311.pyc
- ┃ ┣ F11.cpython-38.pyc
- ┃ ┣ F12.cpython-311.pyc
- ┃ ┣ F12.cpython-38.pyc
- ┃ ┣ F13.cpython-311.pyc
- ┃ ┣ F13.cpython-38.pyc
- ┃ ┣ F14.cpython-311.pyc
- ┃ ┣ F14.cpython-38.pyc
- ┃ ┣ F15.cpython-311.pyc
- ┃ ┣ F15.cpython-38.pyc
- ┃ ┣ F16.cpython-311.pyc
- ┃ ┣ F16.cpython-38.pyc
- ┃ ┣ F17.cpython-311.pyc
- ┃ ┣ F17.cpython-38.pyc
- ┃ ┣ function.cpython-311.pyc
- ┃ ┣ function.cpython-38.pyc
- ┃ ┣ kerangajaib.cpython-311.pyc
- ┃ ┣ kerangajaib.cpython-38.pyc
- ┃ ┣ tictactoe.cpython-311.pyc
- ┃ ┣ tictactoe.cpython-38.pyc
- ┃ ┣ __init__.cpython-311.pyc
- ┃ ┗ __init__.cpython-38.pyc
+database
+ ┣ game.csv
+ ┣ kepemilikan.csv
+ ┣ riwayat.csv
+ ┗ user.csv
+menu
  ┣ cipher.py
  ┣ F02.py
  ┣ F03.py
@@ -100,6 +63,8 @@ tictactoe : Tambahan game tictactoe sebagai pelengkap program
  ┣ kerangajaib.py
  ┣ tictactoe.py
  ┗ __init__.py
+main.py
+README.md
 ```
 
 # Anggota Kelompok
